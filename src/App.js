@@ -16,7 +16,7 @@ function App(props) {
     <>
       <Brand/>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/home" element={<Home/>} />
         <Route path="/menu" element={<Menu />} />
         <Route path="/about" element={<About />} />
         <Route path="/work" element={<Work />} />
