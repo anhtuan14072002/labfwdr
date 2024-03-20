@@ -1,0 +1,10 @@
+.pageDetail{
+    position: fixed;
+    top: 15px;
+    right: 15px;
+    background-color: #fafafa;
+    color: black;
+    height: 660px;
+    width: 1100px;
+    padding: 100px;
+}
